@@ -4,11 +4,10 @@ layout: home
 permalink: /
 ---
 
-# Other Demo Pages
+# 如何成为一个黑客.
 
-[Light](https://b2a3e8.github.io/jekyll-theme-console-demo-light/)
-[Hacker](https://b2a3e8.github.io/jekyll-theme-console-demo-hacker/)
+[How To Become A Hacker](http://www.catb.org/~esr/faqs/hacker-howto.html)
 
-# Welcome
+# 欢迎.
 
-Bla bla bla bla. Bla bla bla bla bla bla bla bla.
+欢迎来到我的网站.
