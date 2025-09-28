@@ -6,7 +6,7 @@ header_pages:
   - 关于.md
   - 联系.md
 
-footer: 'follow me on <a href="https://X.com/">X</a>'
+footer: 'follow me on <a href="https://x.com/rhosts">X</a>'
 
 plugins:
   - jekyll-seo-tag
